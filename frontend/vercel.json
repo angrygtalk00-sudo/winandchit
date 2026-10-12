@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "https://api.winchit.shop/api/$1" }
+  ]
+}
